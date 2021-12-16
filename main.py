@@ -21,9 +21,9 @@ while True:
     else:
         port = 587  # For starttls
         smtp_server = "smtp.gmail.com"
-        sender_email = "totallynotapythonbot21@gmail.com"
-        receiver_email = "beneggers04@gmail.com"
-        password = "**********"
+        sender_email = "INSERT THE EMAIL YOU WANT THE BOT TO SEND FROM HERE"
+        receiver_email = "INSERT THE EMAIL YOU WANT THE BOT TO SEND TO HERE"
+        password = "INSERT THE PASSWORD OF THE EMAIL THE BOT IS SENDING FROM HERE"
         message = """\
         Subject: PS5 Restock Detected
     
